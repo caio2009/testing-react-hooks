@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: #EEE;
+    border-radius: 8px;
+}
+
+/*
+.container .header {
+
+}
+
+.container .body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+*/
